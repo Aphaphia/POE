@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vzCUr5rlE28=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aphap\\source\\repos\\CyberSecurityGUI\\CyberSecurityGUI\\CyberSecurityGUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aphap\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\aphap\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\aphap\\.nuget\\packages\\mysqlconnector\\2.6.1\\mysqlconnector.2.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}
